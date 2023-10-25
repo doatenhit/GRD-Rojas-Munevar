@@ -1,0 +1,1 @@
+El sistema de control de verciones es una herramienta que ayuda a los desarolladores  arastrear y gestionar los cambios en el codigo de software a lo largo del tiempo
